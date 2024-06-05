@@ -4,16 +4,16 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 
 public class Employee {
-private int employee_id;
-private String first_name;
-private String last_name;
-private String email;
-private String phone_number;
-private String hire_date;
-private int job_id;
-private double salary;
-private int manager_id;
-private int department_id;
+    private int employee_id;
+    private String first_name;
+    private String last_name;
+    private String email;
+    private String phone_number;
+    private String hire_date;
+    private int job_id;
+    private double salary;
+    private int manager_id;
+    private int department_id;
 
 
     public Employee() {
